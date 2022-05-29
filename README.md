@@ -1,6 +1,6 @@
 ### hey
 
-thanks for stalking my github. while you're here, check out my [website](https://einarbalan.com/).
+thanks for checking out my github. while you're here, visit my [website](https://einarbalan.com/).
 
 <!--
 **EinarBalan/EinarBalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
